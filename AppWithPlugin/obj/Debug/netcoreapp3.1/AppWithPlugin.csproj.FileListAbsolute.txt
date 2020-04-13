@@ -1,0 +1,28 @@
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.exe
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.json
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.dev.json
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.pdb
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csproj.CopyComplete
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.exe
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.json
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.runtimeconfig.dev.json
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\AppWithPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\bin\Debug\netcoreapp3.1\PluginBase.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.csproj.CopyComplete
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\AppWithPlugin\obj\Debug\netcoreapp3.1\AppWithPlugin.pdb

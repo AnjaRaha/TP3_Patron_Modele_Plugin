@@ -1,0 +1,16 @@
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\bin\Debug\netstandard2.0\UsersPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\UsersPlugin\obj\Debug\netstandard2.0\UsersPlugin.pdb

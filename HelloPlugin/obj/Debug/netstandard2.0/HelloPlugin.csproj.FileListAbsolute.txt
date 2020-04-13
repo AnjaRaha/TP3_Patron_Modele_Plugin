@@ -1,0 +1,16 @@
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\Projet Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.deps.json
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.pdb
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csprojAssemblyReference.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfo.cs
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\tsile\Documents\A5\PATRON\TP_Plugin\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.pdb
